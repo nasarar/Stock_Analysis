@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock_Analysis
 ## Overview
 The client is looking for a quick breakdown of the Stocks dataset that was gathered over the years 2017 and 2018. The results are displayed through a table that displays the Ticker, Total Daily Volume, and the Return for each specific year. With this table, the client will be able to see the success rate for each stock to be able to choose the right investment.  
 
